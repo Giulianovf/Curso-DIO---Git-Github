@@ -1,0 +1,9 @@
+Link para download do Git
+
+https://git-scm.com/downloads
+
+O Git Bash é um terminaal extendido para otimizar o uso do Git.
+
+Guia de Remarcação do Markdown
+
+https://www.markdownguide.org/
